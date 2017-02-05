@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-	printf("Hello World!\n");
-	printf("Vud0 is %f watching you !", 23.23);
+	printf("Hello Git!\n");
+	printf("Vud0 is %f watching you !");
 	return 0;
 }
